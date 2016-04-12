@@ -11,7 +11,7 @@ This plugin requires Gulp 3.9. Note that `ttfautohint` is optional, but your gen
 
 ```
 brew install ttfautohint fontforge --with-python
-npm install grunt-webfont --save-dev
+npm install gulp-webfont --save-dev
 ```
 
 *You may need to use `sudo` for `brew`, depending on your setup.*
