@@ -5,7 +5,7 @@ Only fontforge engine is supported
 
 ## Installation
 
-This plugin requires Gulp 3.9. Note that `ttfautohint` is optional, but your generated font will not be properly hinted if it’s not installed. And make sure you don’t use `ttfautohint` 0.97 because that version won’t work.
+This plugin requires Gulp 3.9. Note that `ttfautohint` is optional, but your generated font will not be properly hinted if it's not installed. And make sure you don't use `ttfautohint` 0.97 because that version won't work.
 
 ### OS X
 
