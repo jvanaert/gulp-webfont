@@ -1,6 +1,6 @@
 {
   "name": "gulp-webfont",
-  "version": "0.0.1-5",
+  "version": "0.0.2",
   "description": "SVG to webfont converter for gulp",
   "main": "index.js",
   "scripts": {
