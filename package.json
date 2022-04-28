@@ -35,7 +35,7 @@
     "icon"
   ],
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.6.4",
     "chalk": "^1.1.1",
     "crypto": "0.0.3",
     "glob": "^7.0.0",
